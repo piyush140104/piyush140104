@@ -63,12 +63,6 @@ On the open-source side I contribute to **[OWTF](https://github.com/owtf/owtf)**
 - **PEC ACM** - Implementation Body member, running events and helping juniors not fear git.
 - **Competitive programming** - 3★ on CodeChef (peak 1648). Slowly climbing.
 
-## Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ff6b9d/piyush140104" alt="contribution graph" width="100%" />
-</p>
-
 ## Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:piyushgupta140104@gmail.com)

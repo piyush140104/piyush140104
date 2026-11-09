@@ -6,7 +6,7 @@
 
 # hey, i'm Piyush 👋
 
-📍 Chandigarh, India &nbsp;|&nbsp; 🎓 B.Tech @ PEC (class of '27) &nbsp;|&nbsp; ☀️ GSoC '26 @ OWASP &nbsp;|&nbsp; 🛠️ builder of small useful things
+🎓 B.Tech @ PEC (class of '27) &nbsp;|&nbsp; ☀️ GSoC '26 @ OWASP &nbsp;|&nbsp; 🛠️ builder of small useful things
 
 I like taking a messy problem and turning it into something people actually use.
 
